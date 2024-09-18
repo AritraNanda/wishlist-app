@@ -1,5 +1,9 @@
 # wishlist
 
+Download the latest version of the Wishlist app:
+
+[Download android APK](https://github.com/AritraNanda/wishlist-app/blob/master/app-release.apk)
+
 A new Flutter project.
 
 ## Getting Started
